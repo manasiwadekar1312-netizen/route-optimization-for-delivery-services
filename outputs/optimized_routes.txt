@@ -1,0 +1,15 @@
+Optimized Delivery Routes
+=========================
+
+Vehicle 1 Route:
+  - Location 0: (18.5204, 73.8567)
+  - Location 0: (18.5204, 73.8567)
+
+Vehicle 2 Route:
+  - Location 0: (18.5204, 73.8567)
+  - Location 4: (18.578, 73.8925)
+  - Location 3: (18.5074, 73.8077)
+  - Location 2: (18.5642, 73.7769)
+  - Location 1: (18.5312, 73.8446)
+  - Location 0: (18.5204, 73.8567)
+
