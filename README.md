@@ -163,4 +163,10 @@ This project showcases how algorithmic thinking combined with visualization can 
 
 ---
 
+
 ✨ Project ready for internship evaluation and submission.
+
+⚠️ Note:
+The route visualization is generated as an interactive HTML file.
+GitHub does not render interactive maps.
+To view the output, please download the repository and open `route_map.html` in any web browser.
